@@ -279,29 +279,10 @@ npm run preview
 
 ---
 
-## 배포
-
-### Netlify 자동 배포
-
-#### 1. GitHub 연동
-1. [Netlify](https://app.netlify.com/) 로그인
-2. "Add new site" → "Import an existing project"
-3. "Deploy with GitHub" 선택
-4. `narihyun/roomease` 저장소 선택
-
-#### 2. 빌드 설정
-```
-Build command: npm run build
-Publish directory: dist
-```
-
-#### 3. 자동 배포
-- GitHub에 `push`할 때마다 자동 빌드 & 배포
-- 빌드 완료 후 사이트 업데이트 (2-3분 소요)
-
-
 ## 홍보 반응
-![근데 좋긴 하당](./니나해.png)
+![근데 좋긴 하당](./니나해.jpg)
+![바이럴인 줄 모르고 진심 어린 댓글...](./당근.png)
+![오 신기 써본다](./에타.png)
 
 ---
 
